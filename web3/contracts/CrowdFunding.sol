@@ -2,5 +2,10 @@
 pragma solidity ^0.8.9;
 
 contract CrowFunding {
-    constructor() {}
+    constructor() {
+
+
+
+        
+    }
 }
